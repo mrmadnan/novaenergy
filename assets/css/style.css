@@ -826,6 +826,7 @@
 
 .counter-value{
   background-color: white;
+  height: 24px;
 }
 .watts-text{
   color: white;
